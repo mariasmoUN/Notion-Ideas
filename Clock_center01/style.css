@@ -1,0 +1,33 @@
+.clockdate-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid #a78976;
+    border-radius:20px;
+    min-width: 230px;
+    padding:28px;  
+}
+#clock{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size:80px;
+    color:#a78976;
+}
+
+#clock span {
+    color:#cfb098;
+    font-size:20px;
+    font-weight: 400;
+    position:relative;
+    left:-10px;
+}
+
+#date {
+    text-transform: uppercase;
+    text-align: center;
+    font-size:14px;
+    font-family: 'Oswald', sans-serif;
+    font-size:24px;
+    letter-spacing: 2px;
+    color:#a78976;
+}
