@@ -14,20 +14,12 @@
     color:#a78976;
 }
 
-#clock span {
-    color:#cfb098;
-    font-size:20px;
-    font-weight: 400;
-    position:relative;
-    left:-10px;
-}
-
 #date {
     text-transform: uppercase;
     text-align: center;
     font-size:14px;
     font-family: 'Oswald', sans-serif;
-    font-size:24px;
+    font-size:18px;
     letter-spacing: 2px;
     color:#a78976;
 }
