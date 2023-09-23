@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: #191919;
+}
+
+
+.navMenu {
+    font-family: 'Advent Pro', sans-serif;
+    padding: 8px;
+    text-align: center;
+    margin: 7px auto;
+    width: fit-content;
+}
+
+.navMenu a {
+    color: #d3d3d3;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px;
+}
+
+.navMenu a i {
+    margin-right: 3px;
+}
+
+.border {
+    border: 1px solid #a78976;
+
+}
+
+.navMenu a:hover {
+    color: #a78976;
+}
