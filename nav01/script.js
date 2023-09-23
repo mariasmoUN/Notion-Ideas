@@ -9,6 +9,6 @@ if (direction === "vertical") {
 function navigate(id) {
   if (id == "home")
     window
-      .open("https://www.notion.so/7174b3a65d064b44a234680dd749b564", "_blank")
+      .open("https://www.notion.so/7174b3a65d064b44a234680dd749b564")
       .focus();
 }
