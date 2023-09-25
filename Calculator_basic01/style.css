@@ -34,12 +34,10 @@ body {
 
 .calculator .space {
     font-size: x-large;
-    width: 2.4em;
-    min-height: 2.4em;
+    width: 40px;
+    height: 40px;
     margin: 0.5%;
     border-radius: 15%;
-    border: 0.08em solid #ffffff;
-    background: white;
 }
 
 
@@ -88,15 +86,15 @@ body {
     
 #clean {
 background: #A07E6A;
-color:#ffffff;
+color:#191919;
 }
 #rad {
 background: #A07E6A;
-color:#ffffff;
+color:#191919;
 }
 #deg {
 background: #A07E6A;
-color:#ffffff;
+color:#191919;
 }
 
 .rows{
