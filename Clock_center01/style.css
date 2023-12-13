@@ -2,16 +2,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    /*border: 3px solid #a78976;*/
+    border: 2px solid #C2CEB9;
     border-radius:20px;
     min-width: 230px;
-    padding:28px;  
+    padding: 40px 28px;  
 }
 #clock{
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
     font-size:80px;
-    color:#a78976;
+    color:#97A884;
 }
 
 #date {
@@ -21,5 +21,5 @@
     font-family: 'Oswald', sans-serif;
     font-size:16px;
     letter-spacing: 2px;
-    color:#a78976;
+    color:#97A884;
 }
